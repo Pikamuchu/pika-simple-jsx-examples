@@ -1,6 +1,6 @@
-# Simple4x examples
+# Simple-jsx examples
 
-Simple4x usage examples
+Simple-jsx usage examples
 
 ## Installation
 

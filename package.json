@@ -1,7 +1,7 @@
 {
-  "name": "simple4x-examples",
+  "name": "simple-jsx-examples",
   "version": "1.0.0",
-  "description": "Simple4x usage examples",
+  "description": "Simple-jsx usage examples",
   "main": "./src/index.js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
@@ -18,7 +18,7 @@
   },
   "keywords": [
     "express",
-    "simple4x",
+    "simple-jsx",
     "web"
   ],
   "author": "Antonio Marin",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/pikamachu/pika-searchquire-examples#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "simple4x": "^1.2.0"
+    "simple-jsx": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -40,8 +40,8 @@
     "@babel/preset-env": "^7.4.2",
     "@babel/runtime": "^7.4.0",
     "babel-eslint": "^10.0.3",
-    "babel-plugin-transform-simple-e4x": "^1.2.2",
     "babel-loader": "^8.0.4",
+    "babel-plugin-transform-simple-jsx": "^1.0.1",
     "chai": "^4.2.0",
     "chai-subset": "^1.5.0",
     "codecov": "^3.5.0",
