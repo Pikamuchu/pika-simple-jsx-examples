@@ -56,7 +56,7 @@
     "searchquire": "^1.5.0",
     "sinon": "^7.1.1",
     "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.7.2"
   }
 }
